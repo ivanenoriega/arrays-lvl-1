@@ -16,7 +16,7 @@ Ejercicios basicos sobre arrays.
 
 ## 2) Detecar array
 
-1. Crear una funcion llamada `esArray` que reciba un parametro y detecte si el parametro es o no un `array`. Si es un array debera retornar _(return)_ el valor `true`, si no lo es `false`.
+1. Crear una funcion llamada `esArray` que reciba un parametro y detecte si el parametro es o no un `array`. Si es un array debera retornar _(return)_ el valor `true`, si no lo es `false`. Tip: Existen muchas formas de hacer esta validacion, las mas comunes son `Array.isArray()` y `toString.call()`. Has pruebas con ambas para ver que devuelven.
 
 ### Pruebas:
 
