@@ -45,7 +45,7 @@ Ejercicios basicos sobre arrays.
 ### Pruebas:
 
 1. elementoN([1, 2, 3, 4], 1) `>>>` 2
-2. elementoN("uno", "dos", "tres", 2) `>>>` tres
+2. elementoN(["uno", "dos", "tres"], 2) `>>>` tres
 3. elementoN([[1, 2, 3], 5, 6], 0) `>>>` [1, 2, 3]
 4. elementoN("array", "numero") `>>>` false
 5. elementoN([], "numero") `>>>` false
