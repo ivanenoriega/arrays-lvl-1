@@ -1,5 +1,7 @@
 # arrays-lvl-1
 
+Ejercicios basicos sobre arrays.
+
 ## Identificar el mes
 
 1. Crear un array con los meses del año ej: `["enero", "febrero"...]`
